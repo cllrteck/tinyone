@@ -1,0 +1,66 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+header {
+	background: #fcdb00 url(../img/main.jpg) no-repeat;
+	background-size: cover;
+
+
+}
+main {
+	background: #fff no-repeat;
+}
+footer {
+	background: #222 url(../img/footer.jpg) no-repeat;
+	color: #fff;
+	background-size: cover;
+}
+.ba-main {
+	padding-top: 22px;
+	display: block;
+	max-width: 40%;
+	margin-left: 230px;
+}
+a:visited {
+	text-decoration: none;
+}
+.ba-header-menu {
+	float: right;
+	padding-top: 10px;
+	padding-right: 230px;
+	font-family: 'ptsans', sans-serif;
+	font-weight: bold;
+}
+.ba-header-menu li {
+	float: left;
+	margin-top: 6px.;
+	list-style-type: none;
+}
+.ba-logo {
+	float: left;
+	padding-left: 230px;
+	padding-top: 50px;
+	margin-left: 65px;
+}
+.ba-header-left {
+	display: block;
+	min-height: 100%;
+	margin-left: 230px;
+}
+h1{
+	color: #FFF;
+}
+.ba-header__img {
+	float: right;
+	padding-right: 260px;
+}
+img{
+	border-radius 10px;
+	float: right;
+	padding-right: 150px;
+}
+
+.ba-main{
+	text-align: center;
+}
+.ba-main__title h2{
+	font-size: 32px;
+}
